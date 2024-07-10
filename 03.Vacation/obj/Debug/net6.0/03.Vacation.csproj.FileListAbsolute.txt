@@ -1,0 +1,14 @@
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\bin\Debug\net6.0\03.Vacation.exe
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\bin\Debug\net6.0\03.Vacation.deps.json
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\bin\Debug\net6.0\03.Vacation.runtimeconfig.json
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\bin\Debug\net6.0\03.Vacation.dll
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\bin\Debug\net6.0\03.Vacation.pdb
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.AssemblyInfoInputs.cache
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.AssemblyInfo.cs
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.csproj.CoreCompileInputs.cache
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.dll
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\refint\03.Vacation.dll
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.pdb
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\03.Vacation.genruntimeconfig.cache
+C:\SoftUni\WhileLoopUprajnenie\03.Vacation\obj\Debug\net6.0\ref\03.Vacation.dll
